@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&psig=AOvVaw3fKrRJwZQxwg9EpSM7ZSkj&ust=1754391335704000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjC48__8I4DFQAAAAAdAAAAABAE">
 - 📫 How to reach me **adarshkumart88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
