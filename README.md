@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="jpg.avif">
 
