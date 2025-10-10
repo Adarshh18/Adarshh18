@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=A+passionate+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=A+passionate+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ## 🧑‍💻 About Me
