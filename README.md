@@ -64,6 +64,7 @@
 
 [![Gmail](https://img.shields.io/badge/-adarshkumart88@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adarshkumart88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adarshhtiwari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://adarshtiwari.lovable.app)
 
 
 ---
@@ -74,11 +75,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adarshh18&theme=dark&hide_border=true" alt="Adarsh's GitHub />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adarshh18&theme=dark&hide_border=true" alt="Adarsh's GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshh18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshh18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"alt="Adarsh's Streak Stats" />
 </p>
 
 <!-- Dynamic Snake contribution -->
