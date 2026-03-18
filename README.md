@@ -38,6 +38,9 @@
 ## 💻 Tech Stack:
 
 <div align="center">
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width='100%'/>
+</div>
 
 <!-- 💻 LANGUAGES -->
 <h4>💻 Languages</h4>
@@ -97,9 +100,7 @@
 </p>
 
 </div>
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width='100%'/>
-</div>
+
 
 ---
 
