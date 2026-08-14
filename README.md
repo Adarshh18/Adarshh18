@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 
 <p align="center">
@@ -184,6 +183,20 @@
 
 
 
+---
+
+## 🕵️ Digital Dossier
+<div align="center">
+  <img src="./assets/profile-dossier.svg" alt="Digital Dossier" width="100%"/>
+</div>
+
+---
+
+## 🚀 GitHub Jet Heatmap
+<div align="center">
+  <img src="./assets/github-jet.svg" alt="GitHub Jet Heatmap" width="100%"/>
+</div>
+
 --- 
 
 ## ✍️ Random Dev Quote
@@ -194,4 +207,3 @@
 <div align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
 </div>
-
