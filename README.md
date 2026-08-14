@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=A+Passionate+Full+Stack+Developer" alt="Typing SVG" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
+<div align="center">
+  <img src="./assets/profile-dossier.svg" alt="Digital Dossier" width="100%"/>
+</div>
 
 ---
 
@@ -181,16 +183,8 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
-
 ---
 
-## 🕵️ Digital Dossier
-<div align="center">
-  <img src="./assets/profile-dossier.svg" alt="Digital Dossier" width="100%"/>
-</div>
-
----
 
 ## 🚀 GitHub Jet Heatmap
 <div align="center">
