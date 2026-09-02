@@ -121,7 +121,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://adarshtiwari.lovable.app">
+<a href="https://adarshtiwari.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
