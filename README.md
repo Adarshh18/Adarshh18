@@ -136,9 +136,10 @@
   <a href="https://github.com/Adarshh18">
     <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adarshh18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
+
   &nbsp;
   <a href="https://github.com/Adarshh18">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+    <img height="195em" src="https://streak-stats.demolab.com/?user=Adarshh18&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
@@ -152,7 +153,7 @@
   
   <!-- Activity Graph -->
   <a href="https://github.com/Adarshh18">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshh18&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshh18&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
   </a>
   
   <br/><br/>
@@ -162,27 +163,9 @@
   
 </div>
 
-
-
-<div align="center">
-  
-  <!-- Pac-Man Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-  
-  <br/>
-  
-  <sub>👾 Watch Pac-Man devour my contributions!</sub>
-  
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
 ---
 
 
