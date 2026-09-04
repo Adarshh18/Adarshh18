@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=A+Passionate+Full+Stack+Developer" alt="Typing SVG" />
 </p>
